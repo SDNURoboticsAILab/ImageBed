@@ -1,1 +1,1 @@
-# The image bed foe the website
+# The image bed for the website
